@@ -1,0 +1,13 @@
+# local build artifacts / backups
+*.itb
+*.img.gz
+*.ko
+backup.txt
+*.log
+*.swp
+*~
+
+# python / editor noise
+__pycache__/
+.idea/
+.vscode/
